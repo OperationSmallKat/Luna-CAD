@@ -8,6 +8,13 @@ Source List
 -M3 Lock Nut - https://www.mcmaster.com/90576A102/
 -M3 Square Nut - https://www.mcmaster.com/97259A101/
 
+Quanity Required
+-M3x20 - 27
+-M3x45 - 13
+-M3x8 - 20
+-M3 Lock Nut - 44
+-M3 Square Nut - 16
+
 PETG Filament 
 -Recomended Overture PETG Filament 
 -2 Colors
@@ -21,12 +28,13 @@ STLs:
 -Body Servo Cover x4
 -Body Cover x2
 Hardware: 
--M3x20 x6
--M3 Lock Nut x10 
+-M3x20 x10
+-M3 Lock Nut x14 
 -M3x 8 x4
 -MG92B x4
 Electronics:
 -Motherboard
+-Daughterboard
 -Battery 
 ----------------------------------------------
 Head: x1
